@@ -1,4 +1,5 @@
 🏠 Análisis de Rendimiento y Regulaciones de Airbnb: París 🇫🇷
+
 📊 Contexto del Proyecto
 Como Analista de Rendimiento en Airbnb, se me ha asignado la tarea de evaluar el mercado de anuncios en París. El crecimiento de la plataforma ha generado nuevas normativas municipales (especialmente en 2015) para limitar el número de propiedades turísticas.
 
